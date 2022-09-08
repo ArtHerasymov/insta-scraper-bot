@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "excel4node": "^1.7.0",
-    "exceljs": "^1.7.0",
+    "excel4node": "^1.8.0",
+    "exceljs": "^1.15.0",
     "puppeteer": "^1.13.0",
     "telegram-node-bot": "^4.0.5"
   }
